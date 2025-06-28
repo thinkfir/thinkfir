@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thinkfir
 - 👀 I’m interested in robotics and hardware programming.
 - 🌱 I’m currently learning web development 
-- 📫 How to reach me ... Discord = thinkfir904
+- 📫 How to reach me ... Email = aryaaithal@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play chess, as well as Age of Empires 4
 
